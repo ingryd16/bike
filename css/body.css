@@ -1,0 +1,10 @@
+body{
+    height: 100vh;
+    background: var(--primary-color);
+    display: flex;
+    flex-direction: column;
+    padding-top:  var(--margin-default);
+    padding-bottom: 24px;
+    font-family: 'Poppins';
+    font-style: italic;
+}

@@ -1,0 +1,63 @@
+header{
+    height: 48px;
+}
+
+.logo{
+    margin-left: var(--margin-default);
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    text-decoration: none;
+    color:var(--secondary-color) ;
+    font-size: 36px;
+    position: relative;
+    top: -10px;
+    left: 00px;
+}
+
+.logo1{
+    margin-left: var(--margin-default);
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    text-decoration: none;
+    color: black;
+    font-size: 26px;
+    position: relative;
+    top: -50px;
+    left: 1100px;
+}
+
+.logo2{
+    margin-left: var(--margin-default);
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    text-decoration: none;
+    color:white;
+    font-size: 26px;
+    position: relative;
+    top: -80px;
+    left: 1230px;
+}
+
+.logo3{
+    margin-left: var(--margin-default);
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    text-decoration: none;
+    color: white;
+    font-size: 26px;
+    position: relative;
+    top: -110px;
+    left: 1380px;
+}
+
+main{
+    flex-grow: 1;
+    display: grid;
+    margin-left: var(--margin-default);
+    margin-right: var(--margin-default);
+    grid-template-columns: repeat(12, 1fr);
+}

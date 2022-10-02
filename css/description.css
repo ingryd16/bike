@@ -1,0 +1,60 @@
+.description{
+    grid-column: 1/7;
+    place-self: center start;
+    color: #545454;
+}
+
+.descripitionc{
+    grid-column: 1/7;
+    place-self: center start;
+    color: #FE6767;
+    font-size: 70px;
+    position: relative;
+    top: 160px;
+}
+
+.ponto{
+    color: #545454;
+    font-size: 70px;
+    top: 0px;
+    left: 300px;
+}
+
+.description_title{
+    font-size: 70px;
+    position: relative;
+    top: 150px;
+}
+
+.description_text{
+    font-size: 28px;
+    width: 500px;
+    color: gray;
+    position: relative;
+    top: 180px;
+}
+
+.learn {
+    color: #FE6767;
+    font-size: 22px;
+    top: 60px;
+    left:336px;
+    position: relative;
+    top: 260px;
+}
+
+.action{
+    grid-column: 1/-11;
+    place-self: center end;
+    height: 50px;
+    width: 300px;
+    background-color: var(--secondary-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: #ffffff;
+    text-decoration: none;
+    position: relative;
+    top: 220px;
+}

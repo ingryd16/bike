@@ -1,0 +1,80 @@
+.assinatura{
+    color: black;
+    text-align: center;
+    position: relative;
+    font-size: 18px;
+    top: 150px;
+    left: 0px;
+}
+
+.bateria{
+    text-align: center;
+    position: relative;
+    font-size: 14px;
+    color: #B6B6B6;
+    top: 230px;
+    left: -45px;
+}
+
+.setenta{
+    text-align: center;
+    position: relative;
+    font-size: 60px;
+    color: #FE6767;
+    top: 230px;
+    left: -90px;
+}
+
+.speed{
+    text-align: center;
+    position: relative;
+    font-size: 14px;
+    color: #B6B6B6;
+    top: 270px;
+    left: -110px;
+}
+
+.vintecinco{
+    text-align: center;
+    position: relative;
+    font-size: 60px;
+    color: #FE6767;
+    top: 270px;
+    left: -180px;
+}
+
+.time{
+    text-align: center;
+    position: relative;
+    font-size: 14px;
+    color: #545454;
+    top: 60px;
+    left: 220px;
+}
+
+.hours{
+    text-align: center;
+    position: relative;
+    font-size: 60px;
+    color: #ffffff;
+    top: 60px;
+    left: 270px;
+}
+
+.weight{
+    text-align: center;
+    position: relative;
+    font-size: 14px;
+    color: #545454;
+    top: 100px;
+    left: 140px;
+}
+
+.dezesseis{
+    text-align: center;
+    position: relative;
+    font-size: 60px;
+    color: #ffffff;
+    top: 100px;
+    left: 200px;
+}

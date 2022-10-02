@@ -1,0 +1,23 @@
+.bikefrente{
+    position: absolute;
+    top: 150px;
+    left:526px;
+    transform: (-1, 0, 0, 1, 0, 0);
+    z-index: 1;
+}
+
+.bikeatras{
+    position: absolute;
+    top: 150px;
+    left:1576px;
+    transform: (-1, 0, 0, 1, 0, 0);
+    z-index: 1;
+}
+
+.red{
+    position: absolute;
+    top: 0px;
+    left:829px;
+    transform: (-1, 0, 0, 1, 0, 0);
+    z-index: -1;
+}
